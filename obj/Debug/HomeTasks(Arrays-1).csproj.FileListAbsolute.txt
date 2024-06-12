@@ -1,0 +1,7 @@
+C:\Users\User\Documents\C#_Projects\HomeTasks(Arrays)\HomeTasks(Arrays)\bin\Debug\HomeTasks(Arrays).exe.config
+C:\Users\User\Documents\C#_Projects\HomeTasks(Arrays)\HomeTasks(Arrays)\bin\Debug\HomeTasks(Arrays).exe
+C:\Users\User\Documents\C#_Projects\HomeTasks(Arrays)\HomeTasks(Arrays)\bin\Debug\HomeTasks(Arrays).pdb
+C:\Users\User\Documents\C#_Projects\HomeTasks(Arrays)\HomeTasks(Arrays)\obj\Debug\HomeTasks(Arrays-1).csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#_Projects\HomeTasks(Arrays)\HomeTasks(Arrays)\obj\Debug\HomeTasks(Arrays-1).csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#_Projects\HomeTasks(Arrays)\HomeTasks(Arrays)\obj\Debug\HomeTasks(Arrays).exe
+C:\Users\User\Documents\C#_Projects\HomeTasks(Arrays)\HomeTasks(Arrays)\obj\Debug\HomeTasks(Arrays).pdb
