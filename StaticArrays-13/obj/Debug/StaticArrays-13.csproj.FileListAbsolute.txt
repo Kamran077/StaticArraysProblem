@@ -1,0 +1,7 @@
+C:\Users\User\Documents\C#_Projects\HomeTasks(Arrays)\StaticArrays-13\bin\Debug\StaticArrays-13.exe.config
+C:\Users\User\Documents\C#_Projects\HomeTasks(Arrays)\StaticArrays-13\bin\Debug\StaticArrays-13.exe
+C:\Users\User\Documents\C#_Projects\HomeTasks(Arrays)\StaticArrays-13\bin\Debug\StaticArrays-13.pdb
+C:\Users\User\Documents\C#_Projects\HomeTasks(Arrays)\StaticArrays-13\obj\Debug\StaticArrays-13.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#_Projects\HomeTasks(Arrays)\StaticArrays-13\obj\Debug\StaticArrays-13.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#_Projects\HomeTasks(Arrays)\StaticArrays-13\obj\Debug\StaticArrays-13.exe
+C:\Users\User\Documents\C#_Projects\HomeTasks(Arrays)\StaticArrays-13\obj\Debug\StaticArrays-13.pdb
