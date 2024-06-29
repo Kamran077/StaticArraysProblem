@@ -1,0 +1,7 @@
+C:\Users\User\Documents\C#_Projects\HomeTasks(Arrays)\StaticArrays-16\bin\Debug\StaticArrays-16.exe.config
+C:\Users\User\Documents\C#_Projects\HomeTasks(Arrays)\StaticArrays-16\bin\Debug\StaticArrays-16.exe
+C:\Users\User\Documents\C#_Projects\HomeTasks(Arrays)\StaticArrays-16\bin\Debug\StaticArrays-16.pdb
+C:\Users\User\Documents\C#_Projects\HomeTasks(Arrays)\StaticArrays-16\obj\Debug\StaticArrays-16.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#_Projects\HomeTasks(Arrays)\StaticArrays-16\obj\Debug\StaticArrays-16.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#_Projects\HomeTasks(Arrays)\StaticArrays-16\obj\Debug\StaticArrays-16.exe
+C:\Users\User\Documents\C#_Projects\HomeTasks(Arrays)\StaticArrays-16\obj\Debug\StaticArrays-16.pdb
